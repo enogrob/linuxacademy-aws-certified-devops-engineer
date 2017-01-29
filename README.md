@@ -16,11 +16,11 @@ Learn everything you need to about the subject of this `LinuxAcademy` project.
 ## Topics
 ```
 Introduction
-[ ] About this Course 00:03:11
-[ ] What is DevOps? 00:04:01
-[ ] About the Exam 00:02:09
-[ ] Types of Deployments 00:11:45
-[ ] Tools to Help you Succeed 00:05:08
+[x] About this Course 00:03:11
+[x] What is DevOps? 00:04:01
+[x] About the Exam 00:02:09
+[x] Types of Deployments 00:11:45
+[x] Tools to Help you Succeed 00:05:08
 Deployment With EC2 and Auto Scaling
 [ ] Deployment Concepts with Auto Scaling 00:04:00
 [ ] Auto Scaling Termination Policies 00:07:53
